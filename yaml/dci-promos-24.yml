@@ -1,0 +1,105 @@
+---
+object: card
+id: 30233158-01b4-4f14-b7d2-d0377273f6c3
+oracle_id: d683d985-9888-4d21-8b5f-69e69ce4a03b
+multiverse_ids: []
+tcgplayer_id: 38436
+cardmarket_id: 20804
+name: Path to Exile
+lang: en
+released_at: '2009-02-28'
+uri: https://api.scryfall.com/cards/30233158-01b4-4f14-b7d2-d0377273f6c3
+scryfall_uri: https://scryfall.com/card/pdci/24/path-to-exile?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084
+  normal: https://cards.scryfall.io/normal/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084
+  large: https://cards.scryfall.io/large/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084
+  png: https://cards.scryfall.io/png/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.png?1677543084
+  art_crop: https://cards.scryfall.io/art_crop/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084
+  border_crop: https://cards.scryfall.io/border_crop/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Exile target creature. Its controller may search their library for a
+  basic land card, put that card onto the battlefield tapped, then shuffle.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/30233158-01b4-4f14-b7d2-d0377273f6c3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad683d985-9888-4d21-8b5f-69e69ce4a03b&unique=prints
+collector_number: '24'
+digital: false
+rarity: rare
+watermark: dci
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: fd6e3515-906e-4f9b-a918-643bb3ffa97c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21
+prices:
+  usd: 
+  usd_foil: '10.72'
+  usd_etched: 
+  eur: 
+  eur_foil: '5.98'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Path+to+Exile&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Path+to+Exile&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Path+to+Exile
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38436?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Path+to+Exile&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Path+to+Exile&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

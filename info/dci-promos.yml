@@ -1,0 +1,15 @@
+---
+object: set
+id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+code: pdci
+name: DCI Promos
+uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+scryfall_uri: https://scryfall.com/sets/pdci
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdci&unique=prints
+released_at: '2006-01-01'
+set_type: promo
+card_count: 80
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800

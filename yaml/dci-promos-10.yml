@@ -1,0 +1,110 @@
+---
+object: card
+id: e4d0f23d-1ae5-4ba6-8c05-e98ca250f365
+oracle_id: 7efd5d62-6da2-428a-98e3-5b842f668656
+multiverse_ids: []
+tcgplayer_id: 38203
+cardmarket_id: 18755
+name: Mogg Fanatic
+lang: en
+released_at: '2007-10-01'
+uri: https://api.scryfall.com/cards/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365
+scryfall_uri: https://scryfall.com/card/pdci/10/mogg-fanatic?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189
+  normal: https://cards.scryfall.io/normal/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189
+  large: https://cards.scryfall.io/large/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189
+  png: https://cards.scryfall.io/png/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.png?1677543189
+  art_crop: https://cards.scryfall.io/art_crop/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189
+  border_crop: https://cards.scryfall.io/border_crop/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Creature — Goblin
+oracle_text: 'Sacrifice Mogg Fanatic: It deals 1 damage to any target.'
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7efd5d62-6da2-428a-98e3-5b842f668656&unique=prints
+collector_number: '10'
+digital: false
+rarity: rare
+watermark: dci
+flavor_text: |-
+  "As if his chest had been a mortar, he burst his hot heart's shell upon it."
+  —Herman Melville, *Moby Dick*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: f5ff7515-f001-4cad-9626-e10aa7f6a8c6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7178
+penny_rank: 1752
+prices:
+  usd: 
+  usd_foil: '3.07'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mogg+Fanatic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mogg+Fanatic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mogg+Fanatic
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38203?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mogg+Fanatic&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mogg+Fanatic&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

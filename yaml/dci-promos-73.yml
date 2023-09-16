@@ -1,0 +1,105 @@
+---
+object: card
+id: d9185aa3-e0af-477f-951d-be4f9d3b0c9c
+oracle_id: e2535383-79f5-4900-8dce-227b0b3650c4
+multiverse_ids: []
+tcgplayer_id: 81773
+cardmarket_id: 248165
+name: Shrine of Burning Rage
+lang: en
+released_at: '2011-05-31'
+uri: https://api.scryfall.com/cards/d9185aa3-e0af-477f-951d-be4f9d3b0c9c
+scryfall_uri: https://scryfall.com/card/pdci/73/shrine-of-burning-rage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921
+  normal: https://cards.scryfall.io/normal/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921
+  large: https://cards.scryfall.io/large/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921
+  png: https://cards.scryfall.io/png/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.png?1677543921
+  art_crop: https://cards.scryfall.io/art_crop/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921
+  border_crop: https://cards.scryfall.io/border_crop/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
+  {3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d9185aa3-e0af-477f-951d-be4f9d3b0c9c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae2535383-79f5-4900-8dce-227b0b3650c4&unique=prints
+collector_number: '73'
+digital: false
+rarity: rare
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: c7cfb107-32b2-4618-99d8-f997095f1b06
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15094
+penny_rank: 813
+prices:
+  usd: 
+  usd_foil: '1.73'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.84'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shrine+of+Burning+Rage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shrine+of+Burning+Rage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shrine+of+Burning+Rage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81773?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shrine+of+Burning+Rage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shrine+of+Burning+Rage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

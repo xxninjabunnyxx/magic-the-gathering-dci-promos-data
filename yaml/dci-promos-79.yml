@@ -1,0 +1,112 @@
+---
+object: card
+id: 8af30f24-0b2a-4d18-a8d2-2edc2687bdf6
+oracle_id: 84e56125-3fbb-4229-8aa0-8f8acff27038
+multiverse_ids: []
+tcgplayer_id: 48132
+cardmarket_id: 250362
+name: Stormblood Berserker
+lang: en
+released_at: '2011-07-30'
+uri: https://api.scryfall.com/cards/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6
+scryfall_uri: https://scryfall.com/card/pdci/79/stormblood-berserker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737
+  normal: https://cards.scryfall.io/normal/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737
+  large: https://cards.scryfall.io/large/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737
+  png: https://cards.scryfall.io/png/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.png?1677543737
+  art_crop: https://cards.scryfall.io/art_crop/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737
+  border_crop: https://cards.scryfall.io/border_crop/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Human Berserker
+oracle_text: |-
+  Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+  Menace (This creature can't be blocked except by two or more creatures.)
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Bloodthirst
+- Menace
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A84e56125-3fbb-4229-8aa0-8f8acff27038&unique=prints
+collector_number: '79'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: c77cdf76-0b87-4572-a00e-f8a58aa0f1cb
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- gameday
+edhrec_rank: 17877
+penny_rank: 325
+prices:
+  usd: '0.29'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stormblood+Berserker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stormblood+Berserker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stormblood+Berserker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48132?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stormblood+Berserker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stormblood+Berserker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

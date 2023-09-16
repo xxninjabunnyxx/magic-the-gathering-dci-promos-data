@@ -1,0 +1,109 @@
+---
+object: card
+id: 70d94a4d-e14a-46ee-978f-7d6164ea990f
+oracle_id: 3763de30-28e1-4689-a71c-07d2fea3a466
+multiverse_ids: []
+tcgplayer_id: 38214
+cardmarket_id: 17562
+name: Zoetic Cavern
+lang: en
+released_at: '2007-05-31'
+uri: https://api.scryfall.com/cards/70d94a4d-e14a-46ee-978f-7d6164ea990f
+scryfall_uri: https://scryfall.com/card/pdci/8/zoetic-cavern?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180
+  normal: https://cards.scryfall.io/normal/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180
+  large: https://cards.scryfall.io/large/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180
+  png: https://cards.scryfall.io/png/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.png?1677543180
+  art_crop: https://cards.scryfall.io/art_crop/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180
+  border_crop: https://cards.scryfall.io/border_crop/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+colors: []
+color_identity: []
+keywords:
+- Morph
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/70d94a4d-e14a-46ee-978f-7d6164ea990f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3763de30-28e1-4689-a71c-07d2fea3a466&unique=prints
+collector_number: '8'
+digital: false
+rarity: rare
+watermark: dci
+flavor_text: Nothing lives within it, yet there is life.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: 8f6d5845-1935-4093-abf8-7850396877ad
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6270
+penny_rank: 4754
+prices:
+  usd: 
+  usd_foil: '2.63'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zoetic+Cavern&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zoetic+Cavern&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zoetic+Cavern
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38214?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zoetic+Cavern&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zoetic+Cavern&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

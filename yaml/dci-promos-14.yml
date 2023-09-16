@@ -1,0 +1,110 @@
+---
+object: card
+id: 4ab6fde4-a8e0-4bbf-b382-ec0602333e76
+oracle_id: 9c4a3ca6-dcf9-4986-81da-bcfd46414bee
+multiverse_ids: []
+tcgplayer_id: 38190
+cardmarket_id: 19006
+name: Cenn's Tactician
+lang: en
+released_at: '2008-02-28'
+uri: https://api.scryfall.com/cards/4ab6fde4-a8e0-4bbf-b382-ec0602333e76
+scryfall_uri: https://scryfall.com/card/pdci/14/cenns-tactician?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224
+  normal: https://cards.scryfall.io/normal/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224
+  large: https://cards.scryfall.io/large/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224
+  png: https://cards.scryfall.io/png/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.png?1677543224
+  art_crop: https://cards.scryfall.io/art_crop/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224
+  border_crop: https://cards.scryfall.io/border_crop/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Creature — Kithkin Soldier
+oracle_text: |-
+  {W}, {T}: Put a +1/+1 counter on target Soldier creature.
+  Each creature you control with a +1/+1 counter on it can block an additional creature each combat.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 935e91e9-61c2-4b35-a85a-c08fef3b420b
+set: pdci
+set_name: DCI Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdci&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdci?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4ab6fde4-a8e0-4bbf-b382-ec0602333e76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c4a3ca6-dcf9-4986-81da-bcfd46414bee&unique=prints
+collector_number: '14'
+digital: false
+rarity: rare
+watermark: dci
+flavor_text: '"A well-trained force brings peace... which brings more time for training!"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: f56cc155-6133-4486-9331-6f19f1c37ab3
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12869
+penny_rank: 4824
+prices:
+  usd: 
+  usd_foil: '0.67'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cenn%27s+Tactician&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cenn%27s+Tactician&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cenn%27s+Tactician
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38190?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cenn%27s+Tactician&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cenn%27s+Tactician&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
